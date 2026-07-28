@@ -121,12 +121,9 @@ https://eduardasouza5h-bit.github.io/jardim-pet-portifolio/
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardasouza5h-bit&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardasouza5h-bit&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardasouza5h-bit&layout=compact&theme=tokyonight&locale=pt-br"/>
-
----
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardasouza5h-bit&layout=compact&theme=tokyonight)
 ## 📫 Contato
 
 <div align="left">
