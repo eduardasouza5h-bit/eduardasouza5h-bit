@@ -71,13 +71,13 @@ Carga horária: 40 horas
 
 </div>
 
-Tecnologias que utilizo atualmente nos meus estudos e projetos:
+## 💻 Tecnologias
 
-- HTML5 para estruturação de páginas web
-- CSS3 para estilização e criação de layouts responsivos
-- JavaScript para interatividade e lógica
-- Git e GitHub para versionamento e organização dos projetos
-- VS Code como ambiente de desenvolvimento
+- HTML5 — estruturação de páginas web
+- CSS3 — estilização e layouts responsivos
+- JavaScript — interatividade e lógica
+- Git e GitHub — versionamento de código
+- VS Code — ambiente de desenvolvimento
 
 ## 📚 Atualmente estudando
 
@@ -113,7 +113,8 @@ Durante o desenvolvimento, pratiquei criação e estruturação de HTML, criaç�
 - Git
 - GitHub Pages
 
-🔗 Acesse o projeto:
+🔗 **Acesse o projeto:**
+
 https://eduardasouza5h-bit.github.io/jardim-pet-portifolio/
  
 ---
@@ -125,22 +126,6 @@ https://eduardasouza5h-bit.github.io/jardim-pet-portifolio/
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardasouza5h-bit&layout=compact&theme=tokyonight&locale=pt-br"/>
 
 ---
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img 
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=eduardasouza5h-bit&show_icons=true&theme=transparent&locale=pt-br"
-/>
-
-<img 
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardasouza5h-bit&layout=compact&theme=transparent&locale=pt-br"
-/>
-
-</div>
-
 
 ## 📫 Contato
 
