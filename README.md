@@ -1,7 +1,5 @@
 # Eduarda Souza
 
-# 👋 Olá, eu sou a Eduarda Souza
-
 ## 💻 Desenvolvedora Front-end em formação
 
 Após 7 anos de experiência na área da saúde, decidi iniciar uma transição de carreira em busca de novos desafios, desenvolvimento profissional e oportunidades de crescimento. Foi nesse processo que dei ouvidos ao meu interesse pela tecnologia e pelo desenvolvimento web.
